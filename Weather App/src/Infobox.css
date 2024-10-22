@@ -1,0 +1,7 @@
+.Infobox{
+   text-align: center;
+}
+.hi{
+    display: flex;
+    justify-content: center;
+}

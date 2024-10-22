@@ -1,0 +1,24 @@
+*{
+    border: border-box;
+    margin: 0;
+}
+.box{
+    border: 0.5px solid rgb(4, 40, 4);
+    background-color: green;
+    height: 90px;
+    width: 90px;
+}
+.main{
+    display: flex;
+    height: 100%;
+    flex-wrap: wrap;
+    background-color: rgba(0, 128, 0, 0.751);
+}
+.box:hover{
+    background-color: rgb(3, 45, 3);
+}
+.loginpage{
+    height: 200px;
+    width: 100px;
+    background-color: aquamarine;
+}
